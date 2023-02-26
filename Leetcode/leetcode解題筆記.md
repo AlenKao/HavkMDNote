@@ -4,6 +4,7 @@
 
 [以書本模式開啟](https://hackmd.io/@chieni/leetcode)
 
+- [72. Edit Distance](https://hackmd.io/@chieni/leetcode_72)
 - [103. Binary Tree Zigzag Level Order Traversal](https://hackmd.io/@chieni/leetcode_103)
 - [121. Best Time to Buy and Sell Stock](https://hackmd.io/@chieni/leetcode_121)
 - [226. Invert Binary Tree](https://hackmd.io/@chieni/leetcode_226)
