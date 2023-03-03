@@ -2,7 +2,7 @@
 
 # Leetcode 解題筆記 - 目錄
 
-[以書本模式開啟](https://hackmd.io/@chieni/leetcode)
+[以書本模式開啟](https://hackmd.io/@leetcodeguy/leetcode)
 
 - [28. Find the Index of the First Occurrence in a String](https://hackmd.io/@leetcodeguy/leetcode_28)
 - [72. Edit Distance](https://hackmd.io/@chieni/leetcode_72)
